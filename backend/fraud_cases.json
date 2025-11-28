@@ -1,0 +1,15 @@
+[
+  {
+    "userName": "John",
+    "securityIdentifier": "12345",
+    "cardEnding": "4242",
+    "amount": "₹3,499",
+    "merchant": "ABC Industry",
+    "location": "Mumbai",
+    "timestamp": "2025-11-25 14:32",
+    "securityQuestion": "What is your favourite colour?",
+    "securityAnswer": "blue",
+    "status": "verification_failed",
+    "outcomeNote": "Verification failed. Caller could not correctly answer the security question."
+  }
+]

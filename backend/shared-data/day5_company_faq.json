@@ -1,0 +1,30 @@
+{
+  "company": "Zomato",
+  "tagline": "Better food for more people",
+  "faqs": [
+    {
+      "q": "What does Zomato do?",
+      "a": "Zomato is a technology platform that connects customers, restaurant partners, and delivery partners, offering food delivery, dining-out discovery, and restaurant reviews."
+    },
+    {
+      "q": "Who uses Zomato?",
+      "a": "It is used by hungry customers looking to order food or find restaurants, and by restaurant owners looking to list their business and manage online orders."
+    },
+    {
+      "q": "How does the pricing work?",
+      "a": "The app is free to use. Customers pay the cost of food, a delivery fee (variable based on distance), and platform fees. Restaurants pay a commission on orders."
+    },
+    {
+      "q": "What are the key features?",
+      "a": "Key features include online ordering with live tracking, table reservations, restaurant photos and reviews, and 'Zomato Legends' for intercity delivery."
+    },
+    {
+      "q": "What are the benefits for users?",
+      "a": "Users enjoy the convenience of doorstep delivery, access to thousands of restaurant menus, discounts on dining, and the ability to discover new food spots via community reviews."
+    },
+    {
+      "q": "Is there a premium membership available?",
+      "a": "Yes, 'Zomato Gold' is a subscription service that offers benefits like free delivery on eligible orders and special discounts on dining out."
+    }
+  ]
+}

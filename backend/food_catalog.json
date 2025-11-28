@@ -1,0 +1,102 @@
+[
+    {
+      "id": "bread_loaf",
+      "name": "Whole Wheat Bread Loaf",
+      "category": "Groceries",
+      "price": 45,
+      "brand": "FreshBake",
+      "size": "400g",
+      "tags": ["bread", "veg"]
+    },
+    {
+      "id": "peanut_butter_jar",
+      "name": "Peanut Butter Jar",
+      "category": "Groceries",
+      "price": 180,
+      "brand": "NutSpread",
+      "size": "340g",
+      "tags": ["spread", "protein", "veg"]
+    },
+    {
+      "id": "milk_1l",
+      "name": "Toned Milk 1L",
+      "category": "Groceries",
+      "price": 60,
+      "brand": "DailyMilk",
+      "size": "1L",
+      "tags": ["dairy", "veg"]
+    },
+    {
+      "id": "eggs_6",
+      "name": "Farm Eggs - Pack of 6",
+      "category": "Groceries",
+      "price": 75,
+      "brand": "HappyHen",
+      "size": "6 pcs",
+      "tags": ["eggs", "non-veg"]
+    },
+    {
+      "id": "pasta_500g",
+      "name": "Durum Wheat Pasta 500g",
+      "category": "Groceries",
+      "price": 95,
+      "brand": "PastaCo",
+      "size": "500g",
+      "tags": ["pasta", "veg"]
+    },
+    {
+      "id": "pasta_sauce_jar",
+      "name": "Tomato Basil Pasta Sauce",
+      "category": "Groceries",
+      "price": 130,
+      "brand": "Saucy",
+      "size": "300g",
+      "tags": ["sauce", "veg"]
+    },
+    {
+      "id": "cheese_block",
+      "name": "Processed Cheese Block",
+      "category": "Groceries",
+      "price": 120,
+      "brand": "Cheezo",
+      "size": "200g",
+      "tags": ["dairy"]
+    },
+    {
+      "id": "instant_noodles_pack",
+      "name": "Instant Noodles Masala",
+      "category": "Snacks",
+      "price": 25,
+      "brand": "Maggi",
+      "size": "70g",
+      "tags": ["snacks", "quick", "veg"]
+    },
+    {
+      "id": "chips_large",
+      "name": "Potato Chips Large",
+      "category": "Snacks",
+      "price": 60,
+      "brand": "CrispyBite",
+      "size": "120g",
+      "tags": ["snacks"]
+    },
+    {
+      "id": "veg_sandwich",
+      "name": "Ready-to-Eat Veg Sandwich",
+      "category": "Prepared Food",
+      "price": 90,
+      "brand": "QuickBite",
+      "size": "1 pc",
+      "tags": ["prepared", "veg"]
+    },
+    {
+      "id": "margherita_pizza",
+      "name": "Margherita Pizza (Medium)",
+      "category": "Prepared Food",
+      "price": 299,
+      "brand": "OvenFresh",
+      "size": "Medium",
+      "tags": ["prepared", "veg"]
+    }
+  ]
+  

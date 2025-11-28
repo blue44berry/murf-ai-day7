@@ -1,0 +1,29 @@
+[
+  {
+    "timestamp": "2025-11-24 18:29:13.647053",
+    "mood": "good",
+    "energy": "4",
+    "goals": [
+      "To complete the today's task,"
+    ],
+    "summary": "Daily wellness check completed."
+  },
+  {
+    "timestamp": "2025-11-24 18:54:24.858427",
+    "mood": "Good",
+    "energy": "Sleepy",
+    "goals": [
+      "Prepare for my exam"
+    ],
+    "summary": "Daily wellness check completed."
+  },
+  {
+    "timestamp": "2025-11-24 18:58:07.395528",
+    "mood": "nice",
+    "energy": "a bit sleepy",
+    "goals": [
+      "prepare for my exam"
+    ],
+    "summary": "Daily wellness check completed."
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "drinkType": "iced latte",
+  "size": "large",
+  "milk": "soy",
+  "extras": [
+    "whipped cream"
+  ],
+  "name": "Jake"
+}

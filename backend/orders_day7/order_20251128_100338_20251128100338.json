@@ -1,0 +1,30 @@
+{
+  "order_id": "20251128100338",
+  "customer_name": "Guest",
+  "address": null,
+  "timestamp": "2025-11-28 10:03:38",
+  "total": 330.0,
+  "items": [
+    {
+      "item_id": "milk_1l",
+      "name": "Toned Milk 1L",
+      "quantity": 1,
+      "price": 60.0,
+      "notes": ""
+    },
+    {
+      "item_id": "peanut_butter_jar",
+      "name": "Peanut Butter Jar",
+      "quantity": 1,
+      "price": 180.0,
+      "notes": "for peanut butter sandwich"
+    },
+    {
+      "item_id": "bread_loaf",
+      "name": "Whole Wheat Bread Loaf",
+      "quantity": 2,
+      "price": 45.0,
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "drinkType": "ice latte",
+  "size": "medium",
+  "milk": "soy",
+  "extras": [
+    "whipped cream"
+  ],
+  "name": "Mohit"
+}
